@@ -1,4 +1,4 @@
-# 🏃‍♂️ Trkacke Price (Running Stories)
+# 🏃‍♂️ Trkačke Priče (Running Stories)
 
 **trkackeprice.com** is a content-focused website dedicated to the world of running. It will feature inspiring personal stories, training advice, race experiences, and beginner-friendly tips — all aimed at building a community around the joy and challenges of running.
 
