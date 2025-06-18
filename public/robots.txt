@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://trkacke-price.com
+
+# Sitemaps
+Sitemap: https://trkacke-price.com/sitemap.xml
